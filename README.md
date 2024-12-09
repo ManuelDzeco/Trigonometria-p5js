@@ -18,3 +18,25 @@ Este projeto utiliza a biblioteca p5.js para criar gráficos interativos baseado
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/Trigonometria-p5js.git
+2. Abra o arquivo index.html no seu navegador.
+3. Interaja com os controles (sliders) para ajustar a função trigonométrica e veja os gráficos e o som em tempo real.
+
+**Executando Online**
+Se preferir não clonar o repositório, você pode acessar o projeto ao vivo através do GitHub Pages.
+
+### Tecnologias Utilizadas
+**p5.js**: Biblioteca JavaScript para criar gráficos e sons interativos.
+**HTML/JavaScript**: Para estruturar e estilizar o projeto.
+
+### Como Contribuir
+1. Faça um fork deste repositório.
+2. Crie uma branch para a sua feature (git checkout -b feature-nova).
+3. Faça o commit das suas alterações (git commit -am 'Adiciona nova funcionalidade').
+4. Envie para o repositório remoto (git push origin feature-nova).
+Abra um pull request para revisão.
+
+### Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+### Contacto
+Se tiver alguma duvida entre em contacto comigo atráves do meu email: manueldzeco@gmail.com
